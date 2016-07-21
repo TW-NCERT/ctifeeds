@@ -921,3 +921,205 @@ Open Source Intelligence
  - Ok
 * Comments
  - Not Available
+
+
+Community or Closed Source Intelligence
+=======================================
+
+
+## Alien Vault OTX (Open Threat Exchange)
+
+### Miscellaneous
+
+#### Events
+>
+* Website
+ - `https://otx.alienvault.com/`
+* Source
+ - `None`
+* Data
+ - URL, Domain Name, IP Address, etc.
+* Format
+ - Not Available
+* API/Token
+ - `TBD`
+* Status
+ - Ok
+* Comments
+ - No comment
+
+
+## Autoshun shunlist
+
+### Miscellaneous
+
+#### IP Blacklist
+>
+* Website
+ - `https://www.autoshun.org/`
+* Source
+ - `https://www.autoshun.org/download/?api_key=< API KEY >&format=csv`
+* Data
+ - IP Address
+* Format
+ - CSV
+* API/Token
+ - `TBD`
+* Status
+ - Error
+* Comments
+ - URL Changed
+
+
+## Blueliv
+
+### Miscellaneous
+
+#### Events
+>
+* Website
+ - `https://community.blueliv.com/`
+* Source
+ - `None`
+* Data
+ - Domain Name, IP Address, etc.
+* Format
+ - CSV
+* API/Token
+ - `TBD`
+* Status
+ - Error
+* Comments
+ - URL Changed
+
+
+## Bitsight
+
+### Unknown
+
+#### Events
+>
+* Website
+ - `https://www.bitsighttech.com/`
+* Source
+ - `http://alerts.bitsighttech.com:8080/stream?key=< api >`
+* Data
+ - Not Available
+* Format
+ - Not available
+* API/Token
+ - `TBD`
+* Status
+ - Error
+* Comments
+ - No API Key
+
+
+## DGArchive
+
+### Various Malware
+
+#### Domain Blacklist
+>
+* Website
+ - `https://dgarchive.caad.fkie.fraunhofer.de/site/`
+* Source
+ - `None`
+* Data
+ - Domain Name
+* Format
+ - JSON
+* API/Token
+ - `TBD`
+* Status
+ - Ok
+* Comments
+ - No comment
+
+
+## Malware Patrol
+
+### Miscellaneous
+
+#### Domain Blacklist
+>
+* Website
+ - `https://dgarchive.caad.fkie.fraunhofer.de/site/`
+* Source
+ - `https://lists.malwarepatrol.net/cgi/getfile?receipt=< API KEY >&product=8&list=dansguardian`
+* Data
+ - URL, Domain Name, IP Address
+* Format
+ - Text
+* API/Token
+ - `TBD`
+* Status
+ - Error
+* Comments
+ - Parsing Error
+
+
+## Phistank
+
+### Phishing
+
+#### Domain Blacklist
+>
+* Website
+ - `https://www.phishtank.com`
+* Source
+ - `https://data.phishtank.com/data/< API KEY >/online-valid.csv`
+* Data
+ - URL
+* Format
+ - CSV
+* API/Token
+ - `TBD`
+* Status
+ - Ok
+* Comments
+ - No comment
+
+
+## n6stomp
+
+### Unknown
+
+#### Events
+>
+* Website
+ - `http://n6.cert.pl/`
+* Source
+ - `None`
+* Data
+ - Not Available
+* Format
+ - Not available
+* API/Token
+ - `TBD`
+* Status
+ - Error
+* Comments
+ - No API Key
+
+
+## Spamhaus CERT Insight Portal
+
+### Unknown
+
+#### Events
+>
+* Website
+ - `https://www.spamhaus.org/`
+* Source
+ - `None`
+* Data
+ - IP Address
+* Format
+ - Not available
+* API/Token
+ - `TBD`
+* Status
+ - Error
+* Comments
+ - No API Key
