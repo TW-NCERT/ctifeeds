@@ -11,11 +11,11 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 Open Source Intelligence
 ========================
 
-## Abuse.ch
+## Abuse.ch 
 
 A swiss guy fighting Cybercrime.
 
-### Feodo Botnet
+### [Feodo Botnet][1] 
 
 Feodo (also known as Cridex or Bugat) is a Trojan used to commit ebanking fraud 
 and steal sensitive information from the victims computer, 
@@ -63,7 +63,7 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - No comment
 
-### Palevo Worm
+### [Palevo Worm][2]
 
 #### Domain Blacklist
 >
@@ -99,7 +99,7 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - Palevo Tracker has been discontinued.
 
-### Zeus Botnet
+### [Zeus Botnet][3]
 
 #### Domain Blacklist
 >
@@ -138,7 +138,7 @@ and they are labeled by Feodo Tracker as:
 
 ## Alien Vault
 
-### Miscellaneous
+### [Miscellaneous][4]
 
 #### IP Blacklist
 >
@@ -160,7 +160,7 @@ and they are labeled by Feodo Tracker as:
 
 ## Arbor
 
-### Distributed SSH Brute Force Attacks
+### [Distributed SSH Brute Force Attacks][5]
 
 #### IP Blacklist
 >
@@ -182,7 +182,7 @@ and they are labeled by Feodo Tracker as:
 
 ## Blocklist.de
 
-### Attacks on the service Apache
+### [Attacks on the service Apache][6]
 
 #### IP Blacklist
 >
@@ -201,7 +201,7 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - No comment
 
-### REG-Bots, IRC-Bots or BadBots (Spamming)
+### [REG-Bots, IRC-Bots or BadBots (Spamming)][7]
 
 #### IP Blacklist
 >
@@ -220,7 +220,7 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - No comment
 
-### Brute-Force Website Logins
+### [Brute-Force Website Logins][8]
 
 #### IP Blacklist
 >
@@ -239,7 +239,7 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - No comment
 
-### Attacks on the service FTP
+### [Attacks on the service FTP][9]
 
 #### IP Blacklist
 >
@@ -258,7 +258,7 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - No comment
 
-### Attacks on the service IMAP, SASL, POP3
+### [Attacks on the service IMAP, SASL, POP3][10]
 
 #### IP Blacklist
 >
@@ -277,7 +277,7 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - No comment
 
-### IRC Botnet
+### [IRC Botnet][11]
 
 #### IP Blacklist
 >
@@ -296,7 +296,7 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - No present data.
 
-### Attacks on the service Mail, Postfix
+### [Attacks on the service Mail, Postfix][12]
 
 #### IP Blacklist
 >
@@ -315,7 +315,7 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - No comment
 
-### Brute-Force SIP-, VOIP- or Asterisk-Server Logins Attacks
+### [Brute-Force SIP-, VOIP- or Asterisk-Server Logins Attacks][13]
 
 #### IP Blacklist
 >
@@ -334,7 +334,7 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - No comment
 
-### Attacks on the service SSH
+### [Attacks on the service SSH][14]
 
 #### IP Blacklist
 >
@@ -353,7 +353,7 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - No comment
 
-### All IPs which are older then 2 month and have more then 5,000 attacks (Strong IPs).
+### [All IPs which are older then 2 month and have more then 5,000 attacks (Strong IPs).][15]
 
 #### IP Blacklist
 >
@@ -375,7 +375,7 @@ and they are labeled by Feodo Tracker as:
 
 ## The CINS Score
 
-### The CI Army List
+### [The CI Army List][16]
 
 #### IP Blacklist
 >
@@ -397,7 +397,7 @@ and they are labeled by Feodo Tracker as:
 
 ## CleanMX.de
 
-### Various Malware
+### [Various Malware][17]
 
 #### Events
 >
@@ -416,7 +416,7 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - No comment
 
-### Phishing
+### [Phishing][18]
 
 #### Events
 >
@@ -438,7 +438,7 @@ and they are labeled by Feodo Tracker as:
 
 ## Team Cymru
 
-### Bogons IP List
+### [Bogons IP List][19]
 
 #### IP Blacklist
 >
@@ -460,7 +460,7 @@ and they are labeled by Feodo Tracker as:
 
 ## DShield: Internet Storm Center
 
-### AS Report
+### [AS Report][20]
 
 #### IP Blacklist
 >
@@ -479,7 +479,7 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - No comment
 
-### Top 20 attacking class C
+### [Top 20 attacking class C][21]
 
 #### IP Blacklist
 >
@@ -498,7 +498,7 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - No comment
 
-### Suspicious Domains
+### [Suspicious Domains][22]
 
 #### Domain Blacklist
 >
@@ -520,7 +520,7 @@ and they are labeled by Feodo Tracker as:
 
 ## Danger.rulez.sk
 
-### Brute Force Attack (Firewall)
+### [Brute Force Attack (Firewall)][23]
 
 #### IP Blacklist
 >
@@ -542,7 +542,7 @@ and they are labeled by Feodo Tracker as:
 
 ## Dragon Research Group
 
-### SSH Brute Force Attack
+### [SSH Brute Force Attack][24]
 
 #### IP Blacklist
 >
@@ -561,7 +561,7 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - No comment
 
-### VNC Brute Force Attack
+### [VNC Brute Force Attack][25]
 
 #### IP Blacklist
 >
@@ -583,7 +583,7 @@ and they are labeled by Feodo Tracker as:
 
 ## Security Research
 
-### Ponmocup Botnet
+### [Ponmocup Botnet][26]
 
 #### Domain Blacklist
 >
@@ -605,7 +605,7 @@ and they are labeled by Feodo Tracker as:
 
 ## Malwarebytes hpHosts
 
-### Miscellaneous
+### [Miscellaneous][27]
 
 #### Domain Blacklist
 >
@@ -627,7 +627,7 @@ and they are labeled by Feodo Tracker as:
 
 ## Malc0de
 
-### Various Malware
+### [Various Malware][28]
 
 #### Domain Blacklist
 >
@@ -666,7 +666,7 @@ and they are labeled by Feodo Tracker as:
 
 ## Malware Domain List
 
-### Miscellaneous
+### [Miscellaneous][29]
 
 #### Domain Blacklist
 >
@@ -688,7 +688,7 @@ and they are labeled by Feodo Tracker as:
 
 ## Malware Domains
 
-### Miscellaneous
+### [Miscellaneous][30]
 
 #### Domain Blacklist
 >
@@ -710,7 +710,7 @@ and they are labeled by Feodo Tracker as:
 
 ## Malware Group
 
-### Unknown
+### [Unknown][31]
 
 #### Domain Blacklist
 >
@@ -746,7 +746,7 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - Not Available
 
-### Proxy
+### [Proxy][32]
 
 #### IP Blacklist
 >
@@ -768,7 +768,7 @@ and they are labeled by Feodo Tracker as:
 
 ## OpenBL.org
 
-### Abuse Reporting and Blacklisting
+### [Abuse Reporting and Blacklisting][33]
 
 #### IP Blacklist
 >
@@ -790,7 +790,7 @@ and they are labeled by Feodo Tracker as:
 
 ## OpenPhish
 
-### Phishing
+### [Phishing][34]
 
 #### Domain Blacklist
 >
@@ -812,7 +812,7 @@ and they are labeled by Feodo Tracker as:
 
 ## Spamhaus
 
-### Don't Route Or Peer Lists
+### [Don't Route Or Peer Lists][35]
 
 #### IP Blacklist
 >
@@ -834,7 +834,7 @@ and they are labeled by Feodo Tracker as:
 
 ## Taichung C&C List
 
-### Miscellaneous
+### [Miscellaneous][36]
 
 #### IP Blacklist
 >
@@ -856,7 +856,7 @@ and they are labeled by Feodo Tracker as:
 
 ## Turris Greylist
 
-### Scanning Attack
+### [Scanning Attack][37]
 
 #### IP Blacklist
 >
@@ -878,7 +878,7 @@ and they are labeled by Feodo Tracker as:
 
 ## URLVir
 
-### Various Malware
+### [Various Malware][38]
 
 #### Domain Blacklist
 >
@@ -917,7 +917,7 @@ and they are labeled by Feodo Tracker as:
 
 ## VXVault
 
-### Various Malware
+### [Various Malware][39]
 
 #### Domain Blacklist
 >
@@ -943,7 +943,7 @@ Community or Closed Source Intelligence
 
 ## Alien Vault OTX (Open Threat Exchange)
 
-### Miscellaneous
+### [Miscellaneous][40]
 
 #### Events
 >
@@ -965,7 +965,7 @@ Community or Closed Source Intelligence
 
 ## Autoshun shunlist
 
-### Miscellaneous
+### [Miscellaneous][41]
 
 #### IP Blacklist
 >
@@ -987,7 +987,7 @@ Community or Closed Source Intelligence
 
 ## Blueliv
 
-### Miscellaneous
+### [Miscellaneous][42]
 
 #### Events
 >
@@ -1009,7 +1009,7 @@ Community or Closed Source Intelligence
 
 ## Bitsight
 
-### Unknown
+### [Unknown][43]
 
 #### Events
 >
@@ -1031,7 +1031,7 @@ Community or Closed Source Intelligence
 
 ## DGArchive
 
-### Various Malware
+### [Various Malware][44]
 
 #### Domain Blacklist
 >
@@ -1053,7 +1053,7 @@ Community or Closed Source Intelligence
 
 ## Malware Patrol
 
-### Miscellaneous
+### [Miscellaneous][45]
 
 #### Domain Blacklist
 >
@@ -1075,7 +1075,7 @@ Community or Closed Source Intelligence
 
 ## Phistank
 
-### Phishing
+### [Phishing][46]
 
 #### Domain Blacklist
 >
@@ -1097,7 +1097,7 @@ Community or Closed Source Intelligence
 
 ## n6stomp
 
-### Unknown
+### [Unknown][47]
 
 #### Events
 >
@@ -1119,7 +1119,7 @@ Community or Closed Source Intelligence
 
 ## Spamhaus CERT Insight Portal
 
-### Unknown
+### [Unknown][48]
 
 #### Events
 >
@@ -1137,3 +1137,53 @@ Community or Closed Source Intelligence
  - Error
 * Comments
  - No API Key
+
+
+[1]: ./Abuse.ch/Feodo_Botnet.md
+[2]: ./Abuse.ch/Palevo_Worm.md
+[3]: ./Abuse.ch/Zeus_Botnet.md
+[4]: ./AlienVault/Miscellaneous.md
+[5]: ./ArborNetworks/Distributed_SSH_Brute_Force_Attacks.md
+[6]: ./Blocklist.de/Attacks_on_the_service_Apache.md
+[7]: ./Blocklist.de/REG-Bots_IRC-Bots_or_BadBots_Spamming.md
+[8]: ./Blocklist.de/Brute-Force_Website_Logins.md
+[9]: ./Blocklist.de/Attacks_on_the_service_FTP.md
+[10]: ./Blocklist.de/Attacks_on_the_service_IMAP_SASL_POP3.md
+[11]: ./Blocklist.de/IRC_Botnet.md
+[12]: ./Blocklist.de/Attacks_on_the_service_Mail_Postfix.md
+[13]: ./Blocklist.de/Brute-Force_SIP_VOIP_or_Asterisk-Server_Logins_Attacks.md
+[14]: ./Blocklist.de/Attacks_on_the_service_SSH.md
+[15]: ./Blocklist.de/Strong_IPs.md
+[16]: ./CINSscore/The_CI_Army_List.md
+[17]: ./CleanMX.de/Various_Malware.md
+[18]: ./CleanMX.de/Phishing.md
+[19]: ./TeamCymru/Bogons_IP_List.md
+[20]: ./DShield/AS_Report.md
+[21]: ./DShield/Top_20_attacking_class_C.md
+[22]: ./DShield/Suspicious_Domains.md
+[23]: ./Danger.rulez.sk/Brute_Force_Attack_Firewall.md
+[24]: ./DragonResearchGroup/SSH_Brute_Force_Attack.md
+[25]: ./DragonResearchGroup/VNC_Brute_Force_Attack.md
+[26]: ./SecurityResearch/Ponmocup_Botnet.md
+[27]: ./MalwarebyteshpHosts/Miscellaneous.md
+[28]: ./Malc0de/Various_Malware.md
+[29]: ./Malware_Domain_List/Miscellaneous.md
+[30]: ./Malware_Domains/Miscellaneous.md
+[31]: ./Malware_Group/Unknown.md
+[32]: ./Malware_Group/Proxy.md
+[33]: ./OpenBL.org/Abuse_Reporting_and_Blacklisting.md
+[34]: ./OpenPhish/Phishing.md
+[35]: ./Spamhaus/Dont_Route_Or_Peer_Lists.md
+[36]: ./TaichungC2List/Miscellaneous.md
+[37]: ./TurrisGreylist/Scanning_Attack.md
+[38]: ./URLVir/Various_Malware.md
+[39]: ./VXVault/Various_Malware.md
+[40]: ./AlienVaultOTX/Miscellaneous.md
+[41]: ./Autoshunshunlist/Miscellaneous.md
+[42]: ./Blueliv/Miscellaneous.md
+[43]: ./Bitsight/Unknown.md
+[44]: ./DGArchive/Various_Malware.md
+[45]: ./MalwarePatrol/Miscellaneous.md
+[46]: ./Phistank/Phishing.md
+[47]: ./n6stomp/Unknown.md
+[48]: ./SpamhausCERTInsightPortal/Unknown.md
