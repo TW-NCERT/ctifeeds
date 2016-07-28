@@ -1,16 +1,3 @@
-Cyber Threat Intelligence Feeds (CTIFeeds)
-==========================================
-@(Information Security)[resource, links, security]
-
-----------
-
-[TOC]
-
-----------
-
-Open Source Intelligence
-========================
-
 ## Abuse.ch
 
 A swiss guy fighting Cybercrime.
@@ -25,7 +12,7 @@ readme [file][1].
 
 [1]: https://palevotracker.abuse.ch/downloads/palevo_v130_readme.txt
 
-#### Domain Blacklist
+#### Domain Name
 >
 * Website
  - `https://palevotracker.abuse.ch/`
@@ -42,7 +29,7 @@ readme [file][1].
 * Comments
  - Palevo Tracker has been discontinued.
 
-#### IP Blacklist
+#### IP Address
 >
 * Website
  - `https://palevotracker.abuse.ch/`
