@@ -8,8 +8,8 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 
 ----------
 
-Open Source Intelligence
-========================
+Community Intelligence
+======================
 
 ## Phistank
 
