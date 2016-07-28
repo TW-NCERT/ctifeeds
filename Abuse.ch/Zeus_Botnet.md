@@ -1,4 +1,62 @@
+Cyber Threat Intelligence Feeds (CTIFeeds)
+==========================================
+@(Information Security)[resource, links, security]
+
+----------
+
+[TOC]
+
+----------
+
+Open Source Intelligence
+========================
+
+## Abuse.ch
+
+A swiss guy fighting Cybercrime.
+
 ### Zeus Botnet
+
+ZeuS (also known as Zbot / WSNPoem) is a crimeware kit, which steals credentials
+from various online services like social networks, online banking accounts, ftp
+accounts, email accounts and other (phishing). The web admin panel can be bought
+for 700$ (source: RSA Security 4/21/2008) and the exe builder for 4'000$
+(source: Prevx 3/15/2009).
+
+The crimeware kit contains the following modules:
+* A web interface to administrate and control the botnet (ZeuS Admin Panel)
+* A tool to create the trojan binaries and encrypt the config file (called exe
+builder)
+ 
+Normaly, a ZeuS host consists of three componets / URIs:
+* a config file (mostly with filextension \*.bin)
+* a binary file which contains the newest version of the ZeuS trojan
+* a dropzone (mostly a php file)
+
+Some features of ZeuS are:
+
+* Capture credentails out of HTTP-, HTTPS-, FTP- and POP3-traffic or out of the
+  bot's protected storage (PStore).
+* Group the infected clients into different botnets
+* Integrated SOCKS-Proxy
+* Web form to search the captured credentials
+* Encrypted config file
+* Function to kill the Operating System
+
+Currently there are two versions of the ZeuS config file out there:
+
+**Version 1**
+
+Config file is scrambled (not encrypted!). If you know the algorithm, you can
+descramble ALL config files which are v1. There is already a plublic tool
+available to descramble v1 config files.
+
+**Version 2**
+
+Config file is encrypted. Each ZeuS installation has its own key defined by the
+botnet master to decrypt the config file . If you have the ZeuS binary, it is
+possible to extract the key in order to decrypt associated v2 config files. No
+public tool available.
 
 #### Domain Blacklist
 >
