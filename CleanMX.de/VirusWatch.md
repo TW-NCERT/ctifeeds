@@ -1,16 +1,3 @@
-Cyber Threat Intelligence Feeds (CTIFeeds)
-==========================================
-@(Information Security)[resource, links, security]
-
-----------
-
-[TOC]
-
-----------
-
-Open Source Intelligence
-========================
-
 ## CleanMX.de
 
 VirusWatch Watching adress changes of Malware Url's
@@ -19,7 +6,7 @@ VirusWatch Watching adress changes of Malware Url's
 
 This database consists of Virus URI, collected and verified since Feb 2006.
 
-#### Events
+#### URL
 >
 * Website
  - `http://support.clean-mx.de/clean-mx/viruses.php`
