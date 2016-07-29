@@ -1,8 +1,12 @@
-## Taichung C&C List
+## Taichung Blacklist
 
-### Miscellaneous
+The Education Bureau of Taichung City Hall
 
-#### IP Blacklist
+### Malicious Activities
+
+A public blocklist of IP addresses suspected in malicious activities on-line.
+
+#### IP Address
 >
 * Website
  - `https://www.tc.edu.tw/net/netflow/lkout/recent/30`
@@ -17,4 +21,4 @@
 * Status
  - Ok
 * Comments
- - No comments
+ - No comment
