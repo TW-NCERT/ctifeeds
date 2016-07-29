@@ -17,4 +17,4 @@
 * Status
  - Ok
 * Comments
- - Not Available
+ - No comments
