@@ -1,8 +1,12 @@
 ## VXVault
 
-### Various Malware
+VXVault is run by a security researcher.
 
-#### Domain Blacklist
+### Malware
+
+VXVault publishes a list of malicious URLs.
+
+#### Domain Name
 >
 * Website
  - `http://vxvault.net/`

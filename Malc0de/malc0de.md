@@ -1,6 +1,6 @@
 ## Malc0de
 
-Malc0de database is running by a security researcher.
+Malc0de database is run by a security researcher.
 
 ### Malware
 
