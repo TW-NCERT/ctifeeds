@@ -1,16 +1,3 @@
-Cyber Threat Intelligence Feeds (CTIFeeds)
-==========================================
-@(Information Security)[resource, links, security]
-
-----------
-
-[TOC]
-
-----------
-
-Open Source Intelligence
-========================
-
 ## Abuse.ch
 
 A swiss guy fighting Cybercrime.
@@ -58,7 +45,7 @@ botnet master to decrypt the config file . If you have the ZeuS binary, it is
 possible to extract the key in order to decrypt associated v2 config files. No
 public tool available.
 
-#### Domain Blacklist
+#### Domain Name
 >
 * Website
  - `https://zeustracker.abuse.ch/`
@@ -75,7 +62,7 @@ public tool available.
 * Comments
  - No comment
 
-#### IP Blacklist
+#### IP Address
 >
 * Website
  - `https://zeustracker.abuse.ch/`

@@ -1,8 +1,14 @@
-## Arbor
+## Arbor Networks
+
+Arbor Networks is a software company founded in 2000. The company's products are
+used to protect networks from denial-of-service attacks, botnets, computer
+worms, and efforts to disable network routers.
 
 ### Distributed SSH Brute Force Attacks
 
-#### IP Blacklist
+Unknown
+
+#### IP Address
 >
 * Website
  - `https://atlas.arbor.net/`

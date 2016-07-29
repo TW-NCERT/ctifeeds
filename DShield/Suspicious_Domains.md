@@ -1,6 +1,17 @@
+## DShield: Internet Storm Center
+
+The ISC provides a free analysis and warning service to thousands of Internet
+users and organizations, and is actively working with Internet Service Providers
+to fight back against the most malicious attackers.
+
 ### Suspicious Domains
 
-#### Domain Blacklist
+There are many suspicious domains on the internet. In an effort to identify
+them, as well as false positives, we have assembled weighted lists based on
+tracking and malware lists from different sources. ISC is collecting and
+categorizing various lists associated with a certain level of sensitivity.
+
+#### Domain Name
 >
 * Website
  - `https://www.dshield.org/suspicious_domains.html`

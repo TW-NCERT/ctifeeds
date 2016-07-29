@@ -1,8 +1,12 @@
 ## Malc0de
 
-### Various Malware
+Malc0de database is run by a security researcher.
 
-#### Domain Blacklist
+### Malware
+
+An updated database of domains hosting malicious executables.
+
+#### Domain Name
 >
 * Website
  - `http://malc0de.com/bl/`
@@ -19,7 +23,7 @@
 * Comments
  - No comment
 
-#### IP Blacklist
+#### IP Address
 >
 * Website
  - `http://malc0de.com/bl/`

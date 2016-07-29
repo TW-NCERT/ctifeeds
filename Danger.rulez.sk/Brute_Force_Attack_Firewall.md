@@ -1,8 +1,12 @@
 ## Danger.rulez.sk
 
+Yet another FreeBSD committer's homepage
+
 ### Brute Force Attack (Firewall)
 
-#### IP Blacklist
+BruteForceBlocker for iptables
+
+#### IP Address
 >
 * Website
  - `http://danger.rulez.sk/`

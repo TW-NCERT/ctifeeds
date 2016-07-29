@@ -1,6 +1,18 @@
+## Blocklist.de
+
+www.blocklist.de is a free and voluntary service provided by a
+Fraud/Abuse-specialist, whose servers are often attacked via SSH-, Mail-Login-,
+FTP-, Webserver- and other services. 
+The mission is to report any and all attacks to the respective abuse departments
+of the infected PCs/servers, to ensure that the responsible provider can inform
+their customer about the infection and disable the attacker. 
+
 ### Brute-Force Website Logins
 
-#### IP Blacklist
+All IPs which attacks Joomlas, Wordpress and other Web-Logins with Brute-Force
+Logins. 
+
+#### IP Address
 >
 * Website
  - `http://www.blocklist.de/`

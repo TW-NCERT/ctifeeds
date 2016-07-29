@@ -1,9 +1,17 @@
+## CleanMX.de
+
+PhishWatch Watching adress changes of Phishing Url's
+
 ### Phishing
 
-#### Events
+This database consists of Phishing URI, collected and verified since Oct 2006.
+Some of them may be already closed, but are still recognized as fraud by firefox
+and opera also offending domain names are honored by SURBL.
+
+#### URL
 >
 * Website
- - `http://support.clean-mx.com/clean-mx/phishing.php`
+ - `http://support.clean-mx.de/clean-mx/phishing.php`
 * Source
  - `http://support.clean-mx.de/clean-mx/xmlphishing?response=alive&format=csv&domain=`
 * Data

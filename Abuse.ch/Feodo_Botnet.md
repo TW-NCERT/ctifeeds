@@ -1,16 +1,3 @@
-Cyber Threat Intelligence Feeds (CTIFeeds)
-==========================================
-@(Information Security)[resource, links, security]
-
-----------
-
-[TOC]
-
-----------
-
-Open Source Intelligence
-========================
-
 ## Abuse.ch
 
 A swiss guy fighting Cybercrime.
@@ -38,7 +25,7 @@ and they are labeled by Feodo Tracker as:
   This Version is also known as Geodo and Emotet.
 * Version D: Successor of Cridex. This version is also known as Dridex
 
-#### Domain Blacklist
+#### Domain Name
 >
 * Website
  - `https://feodotracker.abuse.ch/`
@@ -55,7 +42,7 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - No present data.
 
-#### IP Blacklist
+#### IP Address
 >
 * Website
  - `https://feodotracker.abuse.ch/`
