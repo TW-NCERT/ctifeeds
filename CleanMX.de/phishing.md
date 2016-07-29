@@ -2,7 +2,7 @@
 
 PhishWatch Watching adress changes of Phishing Url's
 
-### PhishWatch
+### Phishing
 
 This database consists of Phishing URI, collected and verified since Oct 2006.
 Some of them may be already closed, but are still recognized as fraud by firefox
