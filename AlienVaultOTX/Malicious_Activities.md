@@ -1,8 +1,15 @@
 ## Alien Vault OTX (Open Threat Exchange)
 
-### Miscellaneous
+AlienVault OTX provides open access to a global community of threat researchers
+and security professionals.
 
-#### Events
+### Malicious Activities
+
+At the heart of Open Threat Exchange is the pulse, an investigation of an online
+threat. Pulses describe any type of online threat including malware, fraud
+campaigns, and even state sponsored hacking.
+
+#### Security Events
 >
 * Website
  - `https://otx.alienvault.com/`
