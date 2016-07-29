@@ -1,8 +1,13 @@
 ## Bitsight
 
-### Unknown
+Translate complex cybersecurity issues into actionable intelligence using the
+BitSight platform.
 
-#### Events
+### Malicious Activities
+
+Unknown
+
+#### Security Events
 >
 * Website
  - `https://www.bitsighttech.com/`
