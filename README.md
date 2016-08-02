@@ -239,7 +239,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - Parsing Error
 * Closed Source Intelligence
 
-### [Phistank - Phishing][46]
+### [PhishTank - Phishing][46]
 * IntelMQ - OK
 * Community Source Intelligence
 
@@ -289,6 +289,6 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 [43]: ./Bitsight/Malicious_Activities.md
 [44]: ./DGArchive/Malware.md
 [45]: ./MalwarePatrol/Malware.md
-[46]: ./Phistank/Phishing.md
+[46]: ./PhishTank/Phishing.md
 [47]: ./n6stomp/CERT.md
 [48]: ./SpamhausCERTInsightPortal/Botnet.md
