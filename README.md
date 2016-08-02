@@ -31,7 +31,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
   - 403 Forbidden
 * Closed Source Intelligence
 
-### [Blocklist.de - Attacks on the service Apache][6]
+### [Blocklist.de - Attacks on the Service Apache][6]
 * IntelMQ - OK
 * Open Source Intelligence
 
@@ -43,11 +43,11 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - Attacks on the service FTP][9]
+### [Blocklist.de - Attacks on the Service FTP][9]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - Attacks on the service IMAP, SASL, POP3][10]
+### [Blocklist.de - Attacks on the Service IMAP, SASL, POP3][10]
 * IntelMQ - OK
 * Open Source Intelligence
 
@@ -56,7 +56,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
   - No Present Data
 * Open Source Intelligence
 
-### [Blocklist.de - Attacks on the service Mail, Postfix][12]
+### [Blocklist.de - Attacks on the Service Mail, Postfix][12]
 * IntelMQ - OK
 * Open Source Intelligence
 
@@ -64,7 +64,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - Attacks on the service SSH][14]
+### [Blocklist.de - Attacks on the Service SSH][14]
 * IntelMQ - OK
 * Open Source Intelligence
 
@@ -85,7 +85,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [DShield - Top 20 attacking class C][21]
+### [DShield - Top 20 Attacking Class C][21]
 * IntelMQ - OK
 * Open Source Intelligence
 
@@ -101,7 +101,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Malc0de - Various Malware][28]
+### [Malc0de - Malware][28]
 * IntelMQ - OK
 * Open Source Intelligence
 
@@ -164,11 +164,11 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Malwarebytes hpHosts - hosts][27]
+### [Malwarebytes hpHosts - Malicious Activities][27]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Malc0de - Various Malware][28]
+### [Malc0de - Malware][28]
 * IntelMQ - OK
 * Open Source Intelligence
 
@@ -196,7 +196,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 
 ## URL
 
-### [CleanMX.de - Various Malware][17]
+### [CleanMX.de - Malware][17]
 * IntelMQ - OK
 * Open Source Intelligence
 
