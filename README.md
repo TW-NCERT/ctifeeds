@@ -23,12 +23,11 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * Open Source Intelligence
 
 ### [Alien Vault - Reputation][4]
-* IntelMQ - Parser Error
-  - No present Data
+* IntelMQ - Parsing Error
 * Open Source Intelligence
 
 ### [Arbor - Distributed SSH Brute Force Attacks][5]
-* IntelMQ - Errors
+* IntelMQ - Collecting Error
   - 403 Forbidden
 * Closed Source Intelligence
 
@@ -53,8 +52,8 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * Open Source Intelligence
 
 ### [Blocklist.de - IRC Botnet][11]
-* IntelMQ - No output
-  - No present data
+* IntelMQ - OK
+  - No Present Data
 * Open Source Intelligence
 
 ### [Blocklist.de - Attacks on the service Mail, Postfix][12]
@@ -74,7 +73,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * Open Source Intelligence
 
 ### [CINSscore.com - The CI Army List][16]
-* IntelMQ - OK
+* IntelMQ - Collecting Error
   - Can not access the link via our IP.
 * Open Source Intelligence
 
@@ -107,13 +106,13 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * Open Source Intelligence
 
 ### [Malware Group - Unknown][31]
-* IntelMQ - No output
-  - Not Available
+* IntelMQ - Collecting Error
+  - Resource Not Available
 * Open Source Intelligence
 
 ### [Malware Group - Proxy][32]
-* IntelMQ - No output
-  - Not Available
+* IntelMQ - Collecting Error
+  - Resource Not Available
 * Open Source Intelligence
 
 ### [OpenBL.org - Abuse Reporting and Blacklisting][33]
@@ -137,12 +136,12 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * Open Source Intelligence
 
 ### [Autoshun shunlist - Malicious Activities][41]
-* IntelMQ - Error
+* IntelMQ - Collecting Error
   - URL Changed
 * Closed Source Intelligence
 
 ### [Spamhaus CERT Insight Portal - Botnet][48]
-* IntelMQ - Error
+* IntelMQ - Collecting Error
   - No API Key
 * Community Source Intelligence
 
@@ -150,7 +149,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 
 ### [Abuse.ch (Feodo Botnet)][1]
 * IntelMQ - OK
-  - No present Data
+  - No Present Data
 * Open Source Intelligence
 
 ### [Abuse.ch (Palevo Worm)][2]
@@ -178,8 +177,8 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * Open Source Intelligence
 
 ### [Malware Group - Unknown][31]
-* IntelMQ - No output
-  - Not Available
+* IntelMQ - Collecting Error
+  - Resource Not Available
 * Open Source Intelligence
 
 ### [URLVir - Malware][38]
@@ -191,7 +190,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * Community Source Intelligence 
 
 ### [n6stomp - Malicious Activities][47]
-* IntelMQ - Error
+* IntelMQ - Collecting Error
   - No API Key
 * Community Source Intelligence 
 
@@ -214,8 +213,9 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * Open Source Intelligence
 
 ### [OpenPhish - Phishing][34]
-* IntelMQ - Missing 'Target' column 
+* IntelMQ - OK 
 * Open Source Intelligence
+* Missing 'Target' column 
 
 ### [VXVault - Malware][39]
 * IntelMQ - OK
@@ -226,12 +226,12 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * Community Source Intelligence
 
 ### [Blueliv - Malicious Activities][42]
-* IntelMQ - Error
-  * URL Changed
+* IntelMQ - Collecting Error
+  - URL Changed
 * Community Source Intelligence
 
 ### [Bitsight - Malicious Activities][43]
-* IntelMQ - Error
+* IntelMQ - Collecting Error
   - No API Key
 * Closed Source Intelligence
 
