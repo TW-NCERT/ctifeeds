@@ -63,16 +63,16 @@ There's only IP information in  in https://feodotracker.abuse.ch/blocklist/?down
 It looks like:
 
 
-  ##########################################################################
-  # Feodo IP Blocklist                                                     #
-  # Generated on 2016-08-05 02:39:17 UTC                                   #
-  #                                                                        #
-  # For questions please refer to https://feodotracker.abuse.ch/blocklist/ #
-  ##########################################################################
-  # START
-  1.178.179.217
-  1.179.170.7
-  # END (683 entries)
+    ##########################################################################
+    # Feodo IP Blocklist                                                     #
+    # Generated on 2016-08-05 02:39:17 UTC                                   #
+    #                                                                        #
+    # For questions please refer to https://feodotracker.abuse.ch/blocklist/ #
+    ##########################################################################
+    # START
+    1.178.179.217
+    1.179.170.7
+    # END (683 entries)
 
 
 But there's more information in https://feodotracker.abuse.ch/?sort=lastseen :
