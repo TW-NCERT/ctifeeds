@@ -58,3 +58,32 @@ and they are labeled by Feodo Tracker as:
  - Ok
 * Comments
  - No comment
+
+There's only IP information in  in https://feodotracker.abuse.ch/blocklist/?download=ipblocklist.
+It looks like:
+
+>
+##########################################################################
+# Feodo IP Blocklist                                                     #
+# Generated on 2016-08-05 02:39:17 UTC                                   #
+#                                                                        #
+# For questions please refer to https://feodotracker.abuse.ch/blocklist/ #
+##########################################################################
+# START
+1.178.179.217
+1.179.170.7
+# END (683 entries)
+
+
+But there's more information in https://feodotracker.abuse.ch/?sort=lastseen :
+
+* Firstseen (UTC)
+* Version of Feodo
+* Feodo C&C (IP)
+* Status
+* SBL (Spamhaus Block List) 
+* ASN 
+* Country 
+* Lastseen (UTC)
+
+Judgment:
