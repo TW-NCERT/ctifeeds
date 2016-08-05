@@ -10,9 +10,10 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 
 ## IP Address
 
-### [Abuse.ch - Feodo Botnet][1]
+### [Abuse.ch - Feodo Botnet][1] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+
 
 ### [Abuse.ch - Palevo Worm)][2]
 * IntelMQ - OK
@@ -147,7 +148,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 
 ## Domain Name
 
-### [Abuse.ch (Feodo Botnet)][1]
+### [Abuse.ch (Feodo Botnet)][1] (O)
 * IntelMQ - OK
   - No Present Data
 * Open Source Intelligence

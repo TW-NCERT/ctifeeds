@@ -85,5 +85,3 @@ But there's more information in https://feodotracker.abuse.ch/?sort=lastseen :
 * ASN 
 * Country 
 * Lastseen (UTC)
-
-Judgment:
