@@ -78,3 +78,24 @@ public tool available.
  - Ok
 * Comments
  - No comment
+
+
+There's only IP information in https://zeustracker.abuse.ch/blocklist.php?download=badips.
+It looks like:
+
+    #############################################################################################
+    # abuse.ch ZeuS IP blocklist "BadIPs" (excluding hijacked sites and free hosting providers) #
+    #                                                                                           #
+    # For questions please refer to https://zeustracker.abuse.ch/blocklist.php                  #
+    #############################################################################################
+
+    101.0.89.3
+    101.200.81.187
+
+But there's more information in https://zeustracker.abuse.ch/blocklist.php
+
+* Compromised URL
+* Snort rule
+* Iptables rule
+* Blocklist for Windows(Hostfile)
+* Blocklist for Unix(Hosts.deny)

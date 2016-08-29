@@ -15,11 +15,11 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * Open Source Intelligence
 
 
-### [Abuse.ch - Palevo Worm)][2]
+### [Abuse.ch - Palevo Worm][2] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Abuse.ch - Zeus Botnet][3]
+### [Abuse.ch - Zeus Botnet][3] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
