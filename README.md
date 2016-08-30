@@ -65,7 +65,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - Attacks on the Service SSH][14]
+### [Blocklist.de - Attacks on the Service SSH][14] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
