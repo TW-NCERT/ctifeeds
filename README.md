@@ -132,7 +132,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [URLVir - Malware][38]
+### [URLVir - Malware][38] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
