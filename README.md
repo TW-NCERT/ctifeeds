@@ -98,7 +98,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Dragon Research Group - VNC Brute Force Attack][25]
+### [Dragon Research Group - VNC Brute Force Attack][25] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
