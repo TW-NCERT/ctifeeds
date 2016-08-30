@@ -90,7 +90,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Danger.rulez.sk - Brute Force Attack (Firewall)][23]
+### [Danger.rulez.sk - Brute Force Attack (Firewall)][23] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
