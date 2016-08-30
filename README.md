@@ -102,7 +102,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Malc0de - Malware][28]
+### [Malc0de - Malware][28] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 

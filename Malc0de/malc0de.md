@@ -39,3 +39,13 @@ An updated database of domains hosting malicious executables.
  - Ok
 * Comments
  - No comment
+
+There's only IP information in http://malc0de.com/bl/IP_Blacklist.txt
+It looks like:
+
+	// This file will be automatically updated daily and populated with the last 30 days of malicious IP addresses.
+	// Last updated 2016-08-29	
+
+	198.57.247.219
+	94.73.147.76
+	199.30.57.225
