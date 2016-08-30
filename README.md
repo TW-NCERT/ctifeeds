@@ -23,7 +23,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Alien Vault - Reputation][4]
+### [Alien Vault - Reputation][4] (O)
 * IntelMQ - Parsing Error
 * Open Source Intelligence
 
