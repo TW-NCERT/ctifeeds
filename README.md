@@ -52,12 +52,12 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - IRC Botnet][11]
+### [Blocklist.de - IRC Botnet][11] {O}
 * IntelMQ - OK
   - No Present Data
 * Open Source Intelligence
 
-### [Blocklist.de - Attacks on the Service Mail, Postfix][12]
+### [Blocklist.de - Attacks on the Service Mail, Postfix][12] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
