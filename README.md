@@ -86,7 +86,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [DShield - Top 20 Attacking Class C][21]
+### [DShield - Top 20 Attacking Class C][21] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
