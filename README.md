@@ -52,7 +52,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - IRC Botnet][11] {O}
+### [Blocklist.de - IRC Botnet][11] (O)
 * IntelMQ - OK
   - No Present Data
 * Open Source Intelligence
@@ -61,7 +61,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - Brute-Force SIP, VOIP or Asterisk-Server Logins Attacks][13]
+### [Blocklist.de - Brute-Force SIP, VOIP or Asterisk-Server Logins Attacks][13] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
