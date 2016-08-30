@@ -27,12 +27,12 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - Parsing Error
 * Open Source Intelligence
 
-### [Arbor - Distributed SSH Brute Force Attacks][5]
+### [Arbor - Distributed SSH Brute Force Attacks][5] (O)
 * IntelMQ - Collecting Error
   - 403 Forbidden
 * Closed Source Intelligence
 
-### [Blocklist.de - Attacks on the Service Apache][6]
+### [Blocklist.de - Attacks on the Service Apache][6] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
