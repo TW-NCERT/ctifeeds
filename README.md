@@ -128,7 +128,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Turris Greylist - Scanning Attack][37]
+### [Turris Greylist - Scanning Attack][37] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
