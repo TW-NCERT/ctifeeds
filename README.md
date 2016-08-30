@@ -73,7 +73,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [CINSscore.com - The CI Army List][16]
+### [CINSscore.com - The CI Army List][16] (O)
 * IntelMQ - Collecting Error
   - Can not access the link via our IP.
 * Open Source Intelligence
