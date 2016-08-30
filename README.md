@@ -69,7 +69,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - Strong IPs][15]
+### [Blocklist.de - Strong IPs][15] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
