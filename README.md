@@ -120,7 +120,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Spamhaus - DROP (Don't Route Or Peer Lists)][35]
+### [Spamhaus - DROP (Don't Route Or Peer Lists)][35] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 

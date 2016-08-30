@@ -27,3 +27,14 @@ AFRINIC, APNIC, LACNIC or KRNIC or direct RIR allocations.
  - Ok
 * Comments
  - No comment
+
+There's only IP information in https://www.spamhaus.org/drop/drop.txt
+It looks like:
+
+	; Spamhaus DROP List 2016/08/30 - (c) 2016 The Spamhaus Project
+	; https://www.spamhaus.org/drop/drop.txt
+	; Last-Modified: Tue, 30 Aug 2016 05:17:00 GMT
+	; Expires: Tue, 30 Aug 2016 09:03:35 GMT
+	1.4.0.0/17 ; SBL256893
+	1.10.16.0/20 ; SBL256894
+	1.32.128.0/18 ; SBL286275
