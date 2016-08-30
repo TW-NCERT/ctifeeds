@@ -106,17 +106,17 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Malware Group - Unknown][31]
+### [Malware Group - Unknown][31] (O)
 * IntelMQ - Collecting Error
   - Resource Not Available
 * Open Source Intelligence
 
-### [Malware Group - Proxy][32]
+### [Malware Group - Proxy][32] (O)
 * IntelMQ - Collecting Error
   - Resource Not Available
 * Open Source Intelligence
 
-### [OpenBL.org - Abuse Reporting and Blacklisting][33]
+### [OpenBL.org - Abuse Reporting and Blacklisting][33] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 

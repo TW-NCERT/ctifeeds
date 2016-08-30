@@ -23,6 +23,17 @@ vulnerable installations of phpMyAdmin and other web applications.
 * API/Token
  - None
 * Status
- - Error
+ - Ok
 * Comments
  - No comment
+
+There's only IP information in https://www.openbl.org/lists/date_all.txt
+It looks like:
+
+	# openbl.org/lists/date_all.txt
+	# Tue Aug 30 07:52:27 2016 UTC
+	#
+	# source ip	date
+	91.224.160.184	1472542163
+	77.243.183.61	1472542093
+	210.30.128.25	1472542086
