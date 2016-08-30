@@ -94,7 +94,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Dragon Research Group - SSH Brute Force Attack][24]
+### [Dragon Research Group - SSH Brute Force Attack][24] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
