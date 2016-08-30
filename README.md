@@ -44,7 +44,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - Attacks on the Service FTP][9]
+### [Blocklist.de - Attacks on the Service FTP][9] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
