@@ -82,7 +82,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [DShield - AS Report][20]
+### [DShield - AS Report][20] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
