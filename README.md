@@ -40,7 +40,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - Brute-Force Website Logins][8]
+### [Blocklist.de - Brute-Force Website Logins][8] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
