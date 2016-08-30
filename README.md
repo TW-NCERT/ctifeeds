@@ -124,7 +124,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Taichung Blacklist - Malicious Activities][36]
+### [Taichung Blacklist - Malicious Activities][36] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
