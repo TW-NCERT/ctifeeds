@@ -78,7 +78,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
   - Can not access the link via our IP.
 * Open Source Intelligence
 
-### [Team Cymru - Bogons IP List][19]
+### [Team Cymru - Bogons IP List][19] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
