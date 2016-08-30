@@ -36,7 +36,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - REG-Bots, IRC-Bots or BadBots (Spamming)][7]
+### [Blocklist.de - REG-Bots, IRC-Bots or BadBots (Spamming)][7] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
