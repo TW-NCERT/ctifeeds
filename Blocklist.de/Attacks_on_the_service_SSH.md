@@ -28,10 +28,3 @@ attacks on the service SSH.
  - Ok
 * Comments
  - No comment
-
-There's only IP information in https://lists.blocklist.de/lists/ssh.txt
-It looks like:
-
-	1.119.3.74
-	1.163.186.117
-	1.52.96.45

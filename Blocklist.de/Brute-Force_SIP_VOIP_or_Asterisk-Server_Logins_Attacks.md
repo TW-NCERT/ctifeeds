@@ -28,10 +28,3 @@ inclueded in the IPs-List from http://www.infiltrated.net/ (Twitter).
  - Ok
 * Comments
  - No comment
-
-There's only IP information in https://lists.blocklist.de/lists/sip.txt
-It looks like:
-
-	103.59.129.142
-	104.245.100.99
-	109.228.102.144

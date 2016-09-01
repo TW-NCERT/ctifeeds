@@ -23,4 +23,4 @@ VNC Probe Report
 * Status
  - Ok
 * Comments
- - Data didn't update, and stoped on 2016-05-18.
+ - No comment

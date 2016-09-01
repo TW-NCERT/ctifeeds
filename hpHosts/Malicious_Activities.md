@@ -47,3 +47,48 @@ website.
  - Ok
 * Comments
  - No comment
+
+There's only Domain information in  in http://hosts-file.net/download/hosts.txt. It looks like:
+
+    # hpHosts last updated on:      06/08/2016
+    # hpHosts last verified by Steven Burn: 06/08/2016
+    #
+    # IMPORTANT:    Rename this file to "HOSTS" (no .txt extension)
+    #
+    # Support:  http://mysteryfcm.co.uk/?mode=contact
+    #       http://forum.hosts-file.net
+    #
+    # Download: http://hosts-file.net/?s=Download
+    # Mirrors:  http://hosts-file.net/?s=Help#dlmirrors
+    #
+    # Intermittent updates:
+    #
+    #   Sites are also added between updates. If you are using a program such as Hostsman,
+    #   or are running a script or anything, or simply want to stay protected against sites
+    #   between updates, please put a watch on the following URL.
+    #
+    #   http://hosts-file.net/hphosts-partial.asp
+    #
+    # localhost address - DO NOT REMOVE! (unless on Windows 7)
+    127.0.0.1   localhost #IPv4
+    # IPv6 localhost - add "#" to the beginning of the line if using Windows XP or below, or a system without IPv6 support.
+    ::1 localhost # IPv6
+    #
+    # Trusted Hosts - Insert your trusted hosts with their correct IP addresses below this line.
+    #
+    # 422,975 - BAD HOSTS BEGIN HERE!!!!
+    #
+    127.0.0.1   -sso.anbtr.com
+    127.0.0.1   0.gvt0.com
+    127.0.0.1   000-101.org
+    127.0.0.1   00000000080000000000000008000000000000000.com
+    127.0.0.1   0000663c.tslocosumo.us
+    #
+    ## Append critical updates below ############################
+    #
+
+But there's more information in https://hosts-file.net/?s=Browse&f=2016:
+
+* Hostname
+* IP
+* class

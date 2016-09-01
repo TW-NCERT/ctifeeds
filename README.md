@@ -23,28 +23,28 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Alien Vault - Reputation][4] (O)
+### [Alien Vault - Reputation][4]
 * IntelMQ - Parsing Error
 * Open Source Intelligence
 
-### [Arbor - Distributed SSH Brute Force Attacks][5] (O)
+### [Arbor - Distributed SSH Brute Force Attacks][5]
 * IntelMQ - Collecting Error
   - 403 Forbidden
 * Closed Source Intelligence
 
-### [Blocklist.de - Attacks on the Service Apache][6] (O)
+### [Blocklist.de - Attacks on the Service Apache][6]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - REG-Bots, IRC-Bots or BadBots (Spamming)][7] (O)
+### [Blocklist.de - REG-Bots, IRC-Bots or BadBots (Spamming)][7]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - Brute-Force Website Logins][8] (O)
+### [Blocklist.de - Brute-Force Website Logins][8]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - Attacks on the Service FTP][9] (O)
+### [Blocklist.de - Attacks on the Service FTP][9]
 * IntelMQ - OK
 * Open Source Intelligence
 
@@ -52,96 +52,96 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - IRC Botnet][11] (O)
+### [Blocklist.de - IRC Botnet][11]
 * IntelMQ - OK
   - No Present Data
 * Open Source Intelligence
 
-### [Blocklist.de - Attacks on the Service Mail, Postfix][12] (O)
+### [Blocklist.de - Attacks on the Service Mail, Postfix][12]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - Brute-Force SIP, VOIP or Asterisk-Server Logins Attacks][13] (O)
+### [Blocklist.de - Brute-Force SIP, VOIP or Asterisk-Server Logins Attacks][13]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - Attacks on the Service SSH][14] (O)
+### [Blocklist.de - Attacks on the Service SSH][14]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - Strong IPs][15] (O)
+### [Blocklist.de - Strong IPs][15]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [CINSscore.com - The CI Army List][16] (O)
+### [CINSscore.com - The CI Army List][16]
 * IntelMQ - Collecting Error
   - Can not access the link via our IP.
 * Open Source Intelligence
 
-### [Team Cymru - Bogons IP List][19] (O)
+### [Team Cymru - Bogons IP List][19]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [DShield - AS Report][20] (O)
+### [DShield - AS Report][20]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [DShield - Top 20 Attacking Class C][21] (O)
+### [DShield - Top 20 Attacking Class C][21]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Danger.rulez.sk - Brute Force Attack (Firewall)][23] (O)
+### [Danger.rulez.sk - Brute Force Attack (Firewall)][23]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Dragon Research Group - SSH Brute Force Attack][24] (O)
+### [Dragon Research Group - SSH Brute Force Attack][24]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Dragon Research Group - VNC Brute Force Attack][25] (O)
+### [Dragon Research Group - VNC Brute Force Attack][25]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Malc0de - Malware][28] (O)
+### [Malc0de - Malware][28]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Malware Group - Unknown][31] (O)
+### [Malware Group - Unknown][31]
 * IntelMQ - Collecting Error
   - Resource Not Available
 * Open Source Intelligence
 
-### [Malware Group - Proxy][32] (O)
+### [Malware Group - Proxy][32]
 * IntelMQ - Collecting Error
   - Resource Not Available
 * Open Source Intelligence
 
-### [OpenBL.org - Abuse Reporting and Blacklisting][33] (O)
+### [OpenBL.org - Abuse Reporting and Blacklisting][33]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Spamhaus - DROP (Don't Route Or Peer Lists)][35] (O)
+### [Spamhaus - DROP (Don't Route Or Peer Lists)][35]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Taichung Blacklist - Malicious Activities][36] (O)
+### [Taichung Blacklist - Malicious Activities][36]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Turris Greylist - Scanning Attack][37] (O)
+### [Turris Greylist - Scanning Attack][37]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [URLVir - Malware][38] (O)
+### [URLVir - Malware][38]
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Autoshun shunlist - Malicious Activities][41] (O)
+### [Autoshun shunlist - Malicious Activities][41]
 * IntelMQ - Collecting Error
   - URL Changed
 * Closed Source Intelligence
 
-### [Spamhaus CERT Insight Portal - Botnet][48] (O)
+### [Spamhaus CERT Insight Portal - Botnet][48]
 * IntelMQ - Collecting Error
   - No API Key
 * Community Source Intelligence
@@ -153,36 +153,36 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
   - No Present Data
 * Open Source Intelligence
 
-### [Abuse.ch (Palevo Worm)][2]
+### [Abuse.ch (Palevo Worm)][2] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Abuse.ch (Zeus Botnet)][3]
+### [Abuse.ch (Zeus Botnet)][3] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [DShield - Suspicious Domains][22]
+### [DShield - Suspicious Domains][22] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Malwarebytes hpHosts - Malicious Activities][27]
+### [Malwarebytes hpHosts - Malicious Activities][27] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Malc0de - Malware][28]
+### [Malc0de - Malware][28] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Malware Domains - Malware][30]
+### [Malware Domains - Malware][30] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Malware Group - Unknown][31]
+### [Malware Group - Unknown][31] (O)
 * IntelMQ - Collecting Error
   - Resource Not Available
 * Open Source Intelligence
 
-### [URLVir - Malware][38]
+### [URLVir - Malware][38] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
@@ -205,20 +205,20 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Security Research - Ponmocup Botnet][26]
+### [Security Research - Ponmocup Botnet][26] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Malware Domain List - Malware][29]
+### [Malware Domain List - Malware][29] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [OpenPhish - Phishing][34]
+### [OpenPhish - Phishing][34] (O)
 * IntelMQ - OK 
 * Open Source Intelligence
 * Missing 'Target' column 
 
-### [VXVault - Malware][39]
+### [VXVault - Malware][39] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 

@@ -27,11 +27,4 @@ as malicious.
 * Status
  - Ok
 * Comments
- - No comment
-
-There's only IP information in http://cinsscore.com/list/ci-badguys.txt
-It looks like:
-
-	1.52.183.130
-	1.160.43.42
-	1.162.168.77
+ - NCCST IP address can not access the link.

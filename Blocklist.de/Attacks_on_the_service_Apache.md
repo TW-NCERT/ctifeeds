@@ -28,10 +28,3 @@ attacks on the service Apache, Apache-DDOS, RFI-Attacks.
  - Ok
 * Comments
  - No comment
-
-There's only IP information in https://lists.blocklist.de/lists/apache.txt
-It looks like:
-
-	1.180.52.83
-	1.189.169.145
-	1.212.90.147

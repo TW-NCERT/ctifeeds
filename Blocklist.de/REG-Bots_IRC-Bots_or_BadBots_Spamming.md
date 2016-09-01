@@ -29,10 +29,3 @@ has posted a Spam-Comment on a open Forum or Wiki).
  - ok
 * Comments
  - No comment
-
-There's only IP information in https://lists.blocklist.de/lists/bots.txt
-It looks like:
-
-	1.161.154.222
-	1.179.183.27
-	1.28.135.97

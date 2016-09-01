@@ -27,3 +27,36 @@ categorizing various lists associated with a certain level of sensitivity.
  - Ok
 * Comments
  - No comment
+
+There's only Domain information in  in https://www.dshield.org/feeds/suspiciousdomains_High.txt. It looks like:
+
+    #
+    #   DShield.org Suspicious Domain List
+    #    (c) 2016 DShield.org
+    #   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+    #   use on your own risk. No warranties implied.
+    #   primary URL: http://www.dshield.org/feeds/suspiciousdomains_High.txt
+    #
+    #   comments: info@dshield.org
+    #    updated: Mon Aug 29 04:09:47 2016 UTC
+    #   
+    #    This list consists of High Level Sensitivity website URLs
+    #     Columns (tab delimited):
+    #
+    #      (1) site
+    #
+    Site
+    pmenboeqhyrpvomq.azwsxe.top
+    rbwubtpsyokqn.info
+    swfqg.in
+    fnjyygovdjyemga.xyz
+    #
+    # STATISTICS
+    #
+    # Total In Database: 37981
+    # Total In Report:   135
+    # Percent of Total:  0.36 %
+    #
+    # END
+    #
+    #  finished list generation: Mon Aug 29 04:09:47 2016 UTC

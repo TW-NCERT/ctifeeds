@@ -28,10 +28,3 @@ Logins.
  - ok
 * Comments
  - No comment
-
-There's only IP information in https://lists.blocklist.de/lists/bruteforcelogin.txt
-It looks like:
-
-	103.17.48.3
-	103.18.4.235
-	103.25.203.71

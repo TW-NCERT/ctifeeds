@@ -28,10 +28,3 @@ attacks on the service Mail, Postfix.
  - Ok
 * Comments
  - No comment
-
-There's only IP information in https://lists.blocklist.de/lists/mail.txt
-It looks like:
-
-	1.126.40.9
-	1.129.28.145
-	1.129.28.246

@@ -26,11 +26,3 @@ commonly found as the source addresses of DDoS attacks.
  - Ok
 * Comments
  - No comment
-
-There's only IP information in https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt
-It looks like:
-
-	# last updated 1472532602 (Tue Aug 30 04:50:02 2016 GMT)
-	0.0.0.0/8
-	2.56.0.0/14
-	5.8.248.0/21
