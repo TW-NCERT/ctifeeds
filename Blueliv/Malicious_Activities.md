@@ -25,4 +25,4 @@ file hashes to protect the community against today’s latest threats.
 * Status
  - Error
 * Comments
- - URL Changed
+ - No Comment

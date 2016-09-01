@@ -153,94 +153,94 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
   - No Present Data
 * Open Source Intelligence
 
-### [Abuse.ch (Palevo Worm)][2]
+### [Abuse.ch (Palevo Worm)][2] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Abuse.ch (Zeus Botnet)][3]
+### [Abuse.ch (Zeus Botnet)][3] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [DShield - Suspicious Domains][22]
+### [DShield - Suspicious Domains][22] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Malwarebytes hpHosts - Malicious Activities][27]
+### [Malwarebytes hpHosts - Malicious Activities][27] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Malc0de - Malware][28]
+### [Malc0de - Malware][28] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Malware Domains - Malware][30]
+### [Malware Domains - Malware][30] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Malware Group - Unknown][31]
+### [Malware Group - Unknown][31] (O)
 * IntelMQ - Collecting Error
   - Resource Not Available
 * Open Source Intelligence
 
-### [URLVir - Malware][38]
+### [URLVir - Malware][38] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [DGArchive - Malware][44]
+### [DGArchive - Malware][44] (O)
 * IntelMQ - OK
 * Community Source Intelligence 
 
-### [n6stomp - Malicious Activities][47]
+### [n6stomp - Malicious Activities][47] (O)
 * IntelMQ - Collecting Error
   - No API Key
 * Community Source Intelligence 
 
 ## URL
 
-### [CleanMX.de - Malware][17]
+### [CleanMX.de - Malware][17] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [CleanMX.de - Phishing][18]
+### [CleanMX.de - Phishing][18] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Security Research - Ponmocup Botnet][26]
+### [Security Research - Ponmocup Botnet][26] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Malware Domain List - Malware][29]
+### [Malware Domain List - Malware][29] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [OpenPhish - Phishing][34]
+### [OpenPhish - Phishing][34] (O)
 * IntelMQ - OK 
 * Open Source Intelligence
 * Missing 'Target' column 
 
-### [VXVault - Malware][39]
+### [VXVault - Malware][39] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Alien Vault OTX - Malicious Activities][40]
+### [Alien Vault OTX - Malicious Activities][40] (O)
 * IntelMQ - OK
 * Community Source Intelligence
 
-### [Blueliv - Malicious Activities][42]
+### [Blueliv - Malicious Activities][42] (O)
 * IntelMQ - Collecting Error
   - URL Changed
 * Community Source Intelligence
 
-### [Bitsight - Malicious Activities][43]
+### [Bitsight - Malicious Activities][43] (O)
 * IntelMQ - Collecting Error
   - No API Key
 * Closed Source Intelligence
 
-### [Malware Patrol - Malware][45]
+### [Malware Patrol - Malware][45] (O)
 * IntelMQ - Parsing Error
 * Closed Source Intelligence
 
-### [PhishTank - Phishing][46]
+### [PhishTank - Phishing][46] (O)
 * IntelMQ - OK
 * Community Source Intelligence
 

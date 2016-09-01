@@ -79,6 +79,18 @@ public tool available.
 * Comments
  - No comment
 
+There's only Domain information in  in https://zeustracker.abuse.ch/blocklist.php?download=baddomains. It looks like:
+
+    ############################################################################
+    # abuse.ch ZeuS domain blocklist "BadDomains" (excluding hijacked sites)   #
+    #                                                                          #
+    # For questions please refer to https://zeustracker.abuse.ch/blocklist.php #
+    ############################################################################
+
+    1st.technology
+    arvision.com.co
+    atmape.ru
+    bestdove.in.ua
 
 There's only IP information in https://zeustracker.abuse.ch/blocklist.php?download=badips.
 It looks like:
