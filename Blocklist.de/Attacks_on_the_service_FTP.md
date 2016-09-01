@@ -28,3 +28,10 @@ on the Service FTP.
  - ok
 * Comments
  - No comment
+
+There's only IP information in https://lists.blocklist.de/lists/ftp.txt
+It looks like:
+
+	101.200.204.27
+	101.200.208.208
+	101.200.87.177

@@ -24,3 +24,16 @@ help of a special router.
  - Ok
 * Comments
  - No comment
+
+There's not only IP information in https://www.turris.cz/greylist-data/greylist-latest.csv, but also more information like:
+
+* Country
+* Tags
+* ASN
+
+It looks like:
+
+	Address,Country,Tags,ASN
+	1.9.165.178,MY,"samba,torrent",4788
+	1.23.82.242,IN,databases,45528
+	1.25.224.180,CN,databases,4837

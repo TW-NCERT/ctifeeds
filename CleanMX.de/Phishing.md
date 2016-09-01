@@ -23,4 +23,4 @@ and opera also offending domain names are honored by SURBL.
 * Status
  - Ok
 * Comments
- - Drop a mail to mailto:"abuse@clean-mx.de" get data
+ - No comment

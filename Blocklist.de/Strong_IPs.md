@@ -27,3 +27,10 @@ All IPs which are older then 2 month and have more then 5.000 attacks.
  - Ok
 * Comments
  - No comment
+
+There's only IP information in https://lists.blocklist.de/lists/strongips.txt
+It looks like:
+
+	112.85.218.11
+	116.31.116.25
+	116.31.116.34

@@ -29,16 +29,3 @@ real-time threat intelligence.
  - Ok
 * Comments
  - No comment
-
-There's only Url information in  in https://www.openphish.com/feed.txt.
-It looks like:
-
-    http://www.boushehr-ems.ir/apple/clients/
-    http://www.boushehr-ems.ir/apple/clients/initiate.php
-    http://www.maxmunus.com/images/demo/slider/alibaba/
-    http://www.hermes-cargo.com/Docssecured/
-    http://www.japcolor.com.ar/login.jsp.htm
-    http://www.senaranews.com/libraries/simplepie/idn/done/auth/view/share/
-    http://www.pomaranczowapomoc.pl/xmlpr/db/box/
-    http://nlsmail.nottslawsoc.org/ap/servic/home/service/costumer/information/check/af09d63c1874c89d929de3a4b98123fe/index/web/a2d01ec0e86accddfd5277a9f87cc4bd/information.php
-    http://nlsmail.nottslawsoc.org/ap/servic/home/service/costumer/information/check/af09d63c1874c89d929de3a4b98123fe/index/web/a2d01ec0e86accddfd5277a9f87cc4bd/confirmed.php

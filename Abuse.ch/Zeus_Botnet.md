@@ -79,27 +79,9 @@ public tool available.
 * Comments
  - No comment
 
-<<<<<<< HEAD
-There's only Domain information in  in https://zeustracker.abuse.ch/blocklist.php?download=baddomains. It looks like:
-
-
-    ############################################################################
-    # abuse.ch ZeuS domain blocklist "BadDomains" (excluding hijacked sites)   #
-    #                                                                          #
-    # For questions please refer to https://zeustracker.abuse.ch/blocklist.php #
-    ############################################################################
-
-    1st.technology
-    arvision.com.co
-    atmape.ru
-    bestdove.in.ua
-
-There's only IP information in  in https://zeustracker.abuse.ch/blocklist.php?download=badips. It looks like:
-=======
 
 There's only IP information in https://zeustracker.abuse.ch/blocklist.php?download=badips.
 It looks like:
->>>>>>> origin/master
 
     #############################################################################################
     # abuse.ch ZeuS IP blocklist "BadIPs" (excluding hijacked sites and free hosting providers) #
@@ -109,10 +91,6 @@ It looks like:
 
     101.0.89.3
     101.200.81.187
-<<<<<<< HEAD
-    103.19.89.118
-    103.230.84.239
-=======
 
 But there's more information in https://zeustracker.abuse.ch/blocklist.php
 
@@ -121,4 +99,3 @@ But there's more information in https://zeustracker.abuse.ch/blocklist.php
 * Iptables rule
 * Blocklist for Windows(Hostfile)
 * Blocklist for Unix(Hosts.deny)
->>>>>>> origin/master
