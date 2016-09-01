@@ -136,12 +136,12 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Autoshun shunlist - Malicious Activities][41] (O)
+### [Autoshun shunlist - Malicious Activities][41]
 * IntelMQ - Collecting Error
   - URL Changed
 * Closed Source Intelligence
 
-### [Spamhaus CERT Insight Portal - Botnet][48] (O)
+### [Spamhaus CERT Insight Portal - Botnet][48]
 * IntelMQ - Collecting Error
   - No API Key
 * Community Source Intelligence
