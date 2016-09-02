@@ -26,6 +26,16 @@ Alienvault IP Reputation Database
 * Comments
  - No comment
 
+##### Sample Output of IntelMQ
+
+```javascript
+{
+  null
+}
+```
+
+----
+
 There's not only IP information in https://reputation.alienvault.com/reputation.data
 It looks like:
 

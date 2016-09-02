@@ -4,11 +4,11 @@ A swiss guy fighting Cybercrime.
 
 ### Feodo Botnet
 
-Feodo (also known as Cridex or Bugat) is a Trojan used to commit ebanking fraud 
-and steal sensitive information from the victims computer, 
-such as credit card details or credentials. 
+Feodo (also known as Cridex or Bugat) is a Trojan used to commit ebanking fraud
+and steal sensitive information from the victims computer,
+such as credit card details or credentials.
 
-At the moment, Feodo Tracker is tracking four versions of Feodo, 
+At the moment, Feodo Tracker is tracking four versions of Feodo,
 and they are labeled by Feodo Tracker as:
 
 * Version A: Hosted on compromised webservers running an nginx proxy on port
@@ -26,7 +26,7 @@ and they are labeled by Feodo Tracker as:
 * Version D: Successor of Cridex. This version is also known as Dridex
 
 #### Domain Name
-> 
+>
 * Website
  - `https://feodotracker.abuse.ch/`
 * Source
@@ -42,7 +42,7 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - No present data.
 
-#### Sample Output of IntelMQ
+##### Sample Output of IntelMQ
 
 ```javascript
 {
@@ -51,7 +51,7 @@ and they are labeled by Feodo Tracker as:
 ```
 
 #### IP Address
-> 
+>
 * Website
  - `https://feodotracker.abuse.ch/`
 * Source
@@ -67,9 +67,29 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - No comment
 
+##### Sample Output of IntelMQ
+
 ```javascript
 {
-  null
+  "malware": {
+    "name": "cridex"
+  },
+  "classification": {
+    "type": "c&c"
+  },
+  "time": {
+    "source": "2016-07-07T07:58:29+00:00",
+    "observation": "2016-07-07T07:58:29+00:00"
+  },
+  "raw": "MS4xNzguMTc5LjIxNw==",
+  "feed": {
+    "url": "https:\/\/feodotracker.abuse.ch\/blocklist\/?download=ipblocklist",
+    "accuracy": 100,
+    "name": "Abuse.ch"
+  },
+  "source": {
+    "ip": "1.178.179.217"
+  }
 }
 ```
 
@@ -97,7 +117,7 @@ But there's more information in https://feodotracker.abuse.ch/?sort=lastseen :
 * Version of Feodo
 * Feodo C&C (IP)
 * Status
-* SBL (Spamhaus Block List) 
-* ASN 
-* Country 
+* SBL (Spamhaus Block List)
+* ASN
+* Country
 * Lastseen (UTC)

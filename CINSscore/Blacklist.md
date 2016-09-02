@@ -29,6 +29,30 @@ as malicious.
 * Comments
  - No comment
 
+##### Sample Output of IntelMQ
+
+```javascript
+{
+  "source": {
+    "ip": "1.63.153.99"
+  },
+  "time": {
+    "observation": "2016-07-12T04:25:31+00:00"
+  },
+  "feed": {
+    "accuracy": 100,
+    "url": "http:\/\/cinsscore.com\/list\/ci-badguys.txt",
+    "name": "CI Army"
+  },
+  "raw": "MS42My4xNTMuOTk=",
+  "classification": {
+    "type": "blacklist"
+  }
+}
+```
+
+----
+
 There's only IP information in http://cinsscore.com/list/ci-badguys.txt
 It looks like:
 

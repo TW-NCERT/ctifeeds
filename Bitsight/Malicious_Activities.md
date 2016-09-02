@@ -23,3 +23,11 @@ Unknown
  - Error
 * Comments
  - No API Key
+
+##### Sample Output of IntelMQ
+
+```javascript
+{
+  null
+}
+```

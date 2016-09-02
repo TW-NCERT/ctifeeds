@@ -26,3 +26,11 @@ file hashes to protect the community against today’s latest threats.
  - Error
 * Comments
  - No Comment
+
+##### Sample Output of IntelMQ
+
+```javascript
+{
+  null
+}
+```

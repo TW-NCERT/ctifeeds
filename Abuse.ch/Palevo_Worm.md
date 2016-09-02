@@ -29,6 +29,32 @@ readme [file][1].
 * Comments
  - Palevo Tracker has been discontinued.
 
+##### Sample Output of IntelMQ
+
+```javascript
+{
+  "raw": "YXJ0YS5yb21haWwzYXJuZXN0LmluZm8=",
+  "classification": {
+    "type": "c&c"
+  },
+  "source": {
+    "fqdn": "arta.romail3arnest.info"
+  },
+  "time": {
+    "observation": "2016-07-07T08:09:47+00:00"
+  },
+  "feed": {
+    "url": "https:\/\/palevotracker.abuse.ch\/blocklists.php?download=domainblocklist",
+    "name": "Abuse.ch",
+    "accuracy": 100
+  },
+  "malware": {
+    "name": "palevo"
+  }
+}
+
+```
+
 #### IP Address
 >
 * Website
@@ -45,3 +71,33 @@ readme [file][1].
  - Ok
 * Comments
  - Palevo Tracker has been discontinued.
+
+##### Sample Output of IntelMQ
+
+```javascript
+{
+  "malware": {
+    "name": "palevo"
+  },
+  "source": {
+    "ip": "103.51.144.193"
+  },
+  "time": {
+    "observation": "2016-07-07T08:11:44+00:00"
+  },
+  "raw": "MTAzLjUxLjE0NC4xOTM=",
+  "classification": {
+    "type": "c&c"
+  },
+  "feed": {
+    "accuracy": 100,
+    "url": "https:\/\/palevotracker.abuse.ch\/blocklists.php?download=ipblocklist",
+    "name": "Abuse.ch"
+  }
+}
+```
+
+----
+
+This project is not continued. We plan to remove this intelligence feed in the
+future.

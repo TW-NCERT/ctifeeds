@@ -24,3 +24,11 @@ Unknown
  - Error
 * Comments
  - 403 Forbidden
+
+##### Sample Output of IntelMQ
+
+```javascript
+{
+  null
+}
+```
