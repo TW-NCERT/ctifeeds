@@ -28,7 +28,7 @@ categorizing various lists associated with a certain level of sensitivity.
 * Comments
  - No comment
 
-#### Sample Output of IntelMQ
+##### Sample Output of IntelMQ
 
 ```javascript
 {

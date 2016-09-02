@@ -23,7 +23,7 @@ An updated database of domains hosting malicious executables.
 * Comments
  - No comment
 
-#### Sample Output of IntelMQ
+##### Sample Output of IntelMQ
 
 ```javascript
 {
@@ -62,7 +62,7 @@ An updated database of domains hosting malicious executables.
 * Comments
  - No comment
 
-#### Sample Output of IntelMQ
+##### Sample Output of IntelMQ
 
 ```javascript
 {

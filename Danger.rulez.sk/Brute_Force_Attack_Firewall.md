@@ -23,7 +23,7 @@ BruteForceBlocker for iptables
 * Comments
  - No comment
 
-#### Sample Output of IntelMQ
+##### Sample Output of IntelMQ
 
 ```javascript
 {

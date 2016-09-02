@@ -25,7 +25,7 @@ SSH Password Authentication Report
 * Comments
  - Data didn't update, and stoped on 2016-05-18.
 
-#### Sample Output of IntelMQ
+##### Sample Output of IntelMQ
 
 ```javascript
 {

@@ -25,7 +25,7 @@ Number of source IPs within the AS that sent packets detected by our sensors.
 * Comments
  - No comment
 
-#### Sample Output of IntelMQ
+##### Sample Output of IntelMQ
 
 ```javascript
 {

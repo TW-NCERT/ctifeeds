@@ -24,9 +24,9 @@ how to recognize a phish.
 * Status
  - Ok
 * Comments
- - No comment
+ - No API Key
 
-#### Sample Output of IntelMQ
+##### Sample Output of IntelMQ
 
 ```javascript
 {

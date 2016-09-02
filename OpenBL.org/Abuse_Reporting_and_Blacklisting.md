@@ -27,7 +27,7 @@ vulnerable installations of phpMyAdmin and other web applications.
 * Comments
  - No comment
 
-#### Sample Output of IntelMQ
+##### Sample Output of IntelMQ
 
 ```javascript
 {

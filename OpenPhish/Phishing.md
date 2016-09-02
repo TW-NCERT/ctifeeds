@@ -30,7 +30,7 @@ real-time threat intelligence.
 * Comments
  - No comment
 
-#### Sample Output of IntelMQ
+##### Sample Output of IntelMQ
 
 ```javascript
 {
