@@ -48,7 +48,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Blocklist.de - Attacks on the Service IMAP, SASL, POP3][10]
+### [Blocklist.de - Attacks on the Service IMAP, SASL, POP3][10] (O)
 * IntelMQ - OK
 * Open Source Intelligence
 
@@ -136,12 +136,12 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
 * Open Source Intelligence
 
-### [Autoshun shunlist - Malicious Activities][41]
+### [Autoshun shunlist - Malicious Activities][41] (O)
 * IntelMQ - Collecting Error
   - URL Changed
 * Closed Source Intelligence
 
-### [Spamhaus CERT Insight Portal - Botnet][48]
+### [Spamhaus CERT Insight Portal - Botnet][48] (O)
 * IntelMQ - Collecting Error
   - No API Key
 * Community Source Intelligence

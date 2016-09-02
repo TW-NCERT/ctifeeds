@@ -28,3 +28,10 @@ on the Service imap, sasl, pop3.....
  - ok
 * Comments
  - No comment
+
+There's only IP information in https://lists.blocklist.de/lists/imap.txt
+It looks like:
+
+	1.129.96.138
+	1.129.96.247
+	1.144.97.126
