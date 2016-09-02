@@ -14,7 +14,7 @@ The crimeware kit contains the following modules:
 * A web interface to administrate and control the botnet (ZeuS Admin Panel)
 * A tool to create the trojan binaries and encrypt the config file (called exe
 builder)
- 
+
 Normaly, a ZeuS host consists of three componets / URIs:
 * a config file (mostly with filextension \*.bin)
 * a binary file which contains the newest version of the ZeuS trojan
@@ -62,6 +62,31 @@ public tool available.
 * Comments
  - No comment
 
+##### Sample Output of IntelMQ
+
+```javascript
+{
+  "time": {
+    "observation": "2016-07-07T08:13:55+00:00"
+  },
+  "classification": {
+    "type": "c&c"
+  },
+  "feed": {
+    "name": "Abuse.ch",
+    "accuracy": 100,
+    "url": "https:\/\/zeustracker.abuse.ch\/blocklist.php?download=baddomains"
+  },
+  "malware": {
+    "name": "zeus"
+  },
+  "raw": "MHgueC5nZw==",
+  "source": {
+    "fqdn": "0x.x.gg"
+  }
+}
+```
+
 #### IP Address
 >
 * Website
@@ -78,6 +103,33 @@ public tool available.
  - Ok
 * Comments
  - No comment
+
+##### Sample Output of IntelMQ
+
+```javascript
+{
+  "malware": {
+    "name": "zeus"
+  },
+  "raw": "MTAxLjAuODkuMw==",
+  "source": {
+    "ip": "101.0.89.3"
+  },
+  "classification": {
+    "type": "c&c"
+  },
+  "time": {
+    "observation": "2016-07-07T08:16:17+00:00"
+  },
+  "feed": {
+    "name": "Abuse.ch",
+    "accuracy": 100,
+    "url": "https:\/\/zeustracker.abuse.ch\/blocklist.php?download=badips"
+  }
+}
+```
+
+----
 
 There's only Domain information in  in https://zeustracker.abuse.ch/blocklist.php?download=baddomains. It looks like:
 

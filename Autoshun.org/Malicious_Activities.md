@@ -24,3 +24,11 @@ IPs to prevent users from accidentally crushing their firewall.
  - Error
 * Comments
  - URL Changed
+
+##### Sample Output of IntelMQ
+
+```javascript
+{
+  null
+}
+```
