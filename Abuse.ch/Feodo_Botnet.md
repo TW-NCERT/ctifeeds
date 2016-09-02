@@ -26,7 +26,7 @@ and they are labeled by Feodo Tracker as:
 * Version D: Successor of Cridex. This version is also known as Dridex
 
 #### Domain Name
->
+> 
 * Website
  - `https://feodotracker.abuse.ch/`
 * Source
@@ -42,8 +42,16 @@ and they are labeled by Feodo Tracker as:
 * Comments
  - No present data.
 
+#### Sample Output of IntelMQ
+
+```javascript
+{
+  null
+}
+```
+
 #### IP Address
->
+> 
 * Website
  - `https://feodotracker.abuse.ch/`
 * Source
@@ -58,6 +66,14 @@ and they are labeled by Feodo Tracker as:
  - Ok
 * Comments
  - No comment
+
+```javascript
+{
+  null
+}
+```
+
+----
 
 There's only IP information in  in https://feodotracker.abuse.ch/blocklist/?download=ipblocklist.
 It looks like:
