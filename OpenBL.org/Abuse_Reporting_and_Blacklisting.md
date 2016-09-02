@@ -27,6 +27,31 @@ vulnerable installations of phpMyAdmin and other web applications.
 * Comments
  - No comment
 
+#### Sample Output of IntelMQ
+
+```javascript
+{
+  "classification": {
+    "type": "blacklist"
+  },
+  "source": {
+    "ip": "121.18.238.29"
+  },
+  "raw": "MTIxLjE4LjIzOC4yOQkxNDY3OTAyMjI1",
+  "feed": {
+    "name": "OpenBL",
+    "url": "https://www.openbl.org/lists/date_all.txt",
+    "accuracy": 100.0
+  },
+  "time": {
+    "observation": "2016-07-07T14:01:47+00:00",
+    "source": "2016-07-07T14:37:05+00:00"
+  }
+}
+```
+
+----
+
 There's only IP information in https://www.openbl.org/lists/date_all.txt
 It looks like:
 

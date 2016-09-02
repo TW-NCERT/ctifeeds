@@ -27,6 +27,36 @@ scans from this subnet.
 * Comments
  - No comment
 
+#### Sample Output of IntelMQ
+
+```javascript
+{
+  "feed": {
+    "url": "https://www.dshield.org/block.txt",
+    "accuracy": 100.0,
+    "name": "DShield"
+  },
+  "extra": "{\"attacks\": 3049, \"network_name\": \"IUnet S.p.A.\"}",
+  "time": {
+    "source": "2016-07-07T12:38:15+00:00",
+    "observation": "2016-07-07T12:04:18+00:00"
+  },
+  "source": {
+    "abuse_contact": "l.cerbai@iunet.it",
+    "geolocation": {
+      "cc": "IT"
+    },
+    "network": "164.132.54.0/24"
+  },
+  "raw": "MTY0LjEzMi41NC4wCTE2NC4xMzIuNTQuMjU1CTI0CTMwNDkJSVVuZXQgUy5wLkEuCUlUCWwuY2VyYmFpQGl1bmV0Lml0",
+  "classification": {
+    "type": "blacklist"
+  }
+}
+```
+
+---
+
 There's not only IP information in https://www.dshield.org/block.txt, but also more information like:
 
 * Number of targets scanned

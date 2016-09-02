@@ -23,6 +23,28 @@ An updated database of domains hosting malicious executables.
 * Comments
  - No comment
 
+#### Sample Output of IntelMQ
+
+```javascript
+{
+  "time": {
+    "observation": "2016-07-07T13:02:52+00:00"
+  },
+  "classification": {
+    "type": "malware"
+  },
+  "source": {
+    "fqdn": "2biking.com"
+  },
+  "raw": "UFJJTUFSWSAyYmlraW5nLmNvbSBibG9ja2VkZG9tYWluLmhvc3Rz",
+  "feed": {
+    "accuracy": 100.0,
+    "url": "https://malc0de.com/bl/BOOT",
+    "name": "Malc0de"
+  }
+}
+```
+
 #### IP Address
 >
 * Website
@@ -39,6 +61,30 @@ An updated database of domains hosting malicious executables.
  - Ok
 * Comments
  - No comment
+
+#### Sample Output of IntelMQ
+
+```javascript
+{
+  "source": {
+    "ip": "192.254.235.178"
+  },
+  "raw": "MTkyLjI1NC4yMzUuMTc4",
+  "feed": {
+    "accuracy": 100.0,
+    "url": "https://malc0de.com/bl/IP_Blacklist.txt",
+    "name": "Malc0de"
+  },
+  "classification": {
+    "type": "malware"
+  },
+  "time": {
+    "observation": "2016-07-07T13:11:35+00:00"
+  }
+}
+```
+
+----
 
 There's only Domain information in  in http://malc0de.com/bl/BOOT. It looks like:
 

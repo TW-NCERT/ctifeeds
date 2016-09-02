@@ -30,6 +30,30 @@ real-time threat intelligence.
 * Comments
  - No comment
 
+#### Sample Output of IntelMQ
+
+```javascript
+{
+  "time": {
+    "observation": "2016-07-07T14:06:16+00:00"
+  },
+  "classification": {
+    "type": "phishing"
+  },
+  "source": {
+    "url": "http://2ztc3.sunucubilisim.net/cartasi/"
+  },
+  "raw": "aHR0cDovLzJ6dGMzLnN1bnVjdWJpbGlzaW0ubmV0L2NhcnRhc2kv",
+  "feed": {
+    "name": "OpenPhish",
+    "accuracy": 100.0,
+    "url": "https://www.openphish.com/feed.txt"
+  }
+}
+```
+
+----
+
 There's only Url information in  in https://www.openphish.com/feed.txt.
 It looks like:
 
@@ -42,3 +66,7 @@ It looks like:
     http://www.pomaranczowapomoc.pl/xmlpr/db/box/
     http://nlsmail.nottslawsoc.org/ap/servic/home/service/costumer/information/check/af09d63c1874c89d929de3a4b98123fe/index/web/a2d01ec0e86accddfd5277a9f87cc4bd/information.php
     http://nlsmail.nottslawsoc.org/ap/servic/home/service/costumer/information/check/af09d63c1874c89d929de3a4b98123fe/index/web/a2d01ec0e86accddfd5277a9f87cc4bd/confirmed.php
+
+But there's more information in https://www.openphish.com/:
+
+* Targeted Brand    

@@ -23,6 +23,31 @@ BruteForceBlocker for iptables
 * Comments
  - No comment
 
+#### Sample Output of IntelMQ
+
+```javascript
+{
+  "raw": "OTMuMTc0LjkzLjE4CQkjIDIwMTYtMDYtMjQgMDU6MTg6MDMJCTg4CTEwNDA3NjI=",
+  "time": {
+    "observation": "2016-07-07T12:09:49+00:00",
+    "source": "2016-06-24T05:18:03+00:00"
+  },
+  "feed": {
+    "accuracy": 100.0,
+    "name": "Danger Rulez",
+    "url": "http://danger.rulez.sk/projects/bruteforceblocker/blist.php"
+  },
+  "source": {
+    "ip": "93.174.93.18"
+  },
+  "classification": {
+    "type": "brute-force"
+  }
+}
+```
+
+----
+
 There's only IP information in http://danger.rulez.sk/projects/bruteforceblocker/blist.php
 It looks like:
 

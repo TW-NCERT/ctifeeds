@@ -25,6 +25,32 @@ Number of source IPs within the AS that sent packets detected by our sensors.
 * Comments
  - No comment
 
+#### Sample Output of IntelMQ
+
+```javascript
+{
+  "feed": {
+    "name": "DShield",
+    "accuracy": 100.0,
+    "url": "https://dshield.org/asdetailsascii.html?as=4782"
+  },
+  "extra": "{\"last_seen\": \"2016-07-06\", \"reports\": 151, \"targets\": 75}",
+  "source": {
+    "ip": "117.56.109.226",
+    "asn": 4782
+  },
+  "time": {
+    "observation": "2016-07-07T11:57:20+00:00",
+    "source": "2016-07-07T07:41:20+00:00"
+  },
+  "raw": "MTE3LjA1Ni4xMDkuMjI2CTE1MQk3NQkJMjAxNi0wNy0wNgkyMDE2LTA3LTA3IDA3OjQxOjIw",
+  "classification": {
+    "type": "brute-force"
+  }
+}
+```
+
+----
 There's not only IP information in https://www.dshield.org/asdetailsascii.html?as=4782, but also more information like:
 
 * First Seen

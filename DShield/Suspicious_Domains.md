@@ -28,6 +28,30 @@ categorizing various lists associated with a certain level of sensitivity.
 * Comments
  - No comment
 
+#### Sample Output of IntelMQ
+
+```javascript
+{
+  "feed": {
+    "name": "DShield",
+    "url": "https://www.dshield.org/feeds/suspiciousdomains_High.txt",
+    "accuracy": 100.0
+  },
+  "classification": {
+    "type": "malware"
+  },
+  "source": {
+    "fqdn": "000007.ru"
+  },
+  "raw": "MDAwMDA3LnJ1CQ==",
+  "time": {
+    "source": "2016-07-07T04:10:24+00:00",
+    "observation": "2016-07-07T12:06:13+00:00"
+  }
+}
+```
+
+----
 There's only Domain information in  in https://www.dshield.org/feeds/suspiciousdomains_High.txt. It looks like:
 
     #
