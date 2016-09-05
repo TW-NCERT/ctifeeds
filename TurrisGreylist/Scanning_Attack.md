@@ -25,6 +25,31 @@ help of a special router.
 * Comments
  - No comment
 
+##### Sample Output of IntelMQ
+
+```javascript
+{
+  "classification":{
+    "type":"scanner"
+  },
+  "time":{
+    "observation":"2016-07-07T14:53:37+00:00"
+  },
+  "raw":"MS4xMS40NS41LEtSLG5ldGlzLDE4MzEz",
+  "feed":{
+    "url":"https://www.turris.cz/greylist-data/greylist-latest.csv",
+    "name":"Turris Greylist",
+    "accuracy":100.0
+  },
+  "event_description":{
+    "text":"netis"
+  },
+  "source":{
+    "ip":"1.11.45.5"
+  }
+}
+```
+
 There's not only IP information in https://www.turris.cz/greylist-data/greylist-latest.csv, but also more information like:
 
 * Country

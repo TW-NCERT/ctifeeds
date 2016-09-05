@@ -24,6 +24,28 @@ web-servers.
 * Comments
  - Website not found.
 
+##### Sample Output of IntelMQ
+
+```javascript
+{
+  "time":{
+    "observation":"2016-07-07T12:48:53+00:00"
+  },
+  "source":{
+    "fqdn":"-sso.anbtr.com"
+  },
+  "raw":"MTI3LjAuMC4xCS1zc28uYW5idHIuY29t",
+  "classification":{
+    "type":"blacklist"
+  },
+  "feed":{
+    "accuracy":100.0,
+    "url":"http://hosts-file.net/download/hosts.txt",
+    "name":"HpHosts"
+  }
+}
+```
+
 There's only Url information in  in http://security-research.dyndns.org/pub/malware-feeds/ponmocup-infected-domains-CIF-latest.txt. It looks like:
 
     # 

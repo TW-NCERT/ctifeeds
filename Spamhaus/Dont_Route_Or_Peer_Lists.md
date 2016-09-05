@@ -28,6 +28,36 @@ AFRINIC, APNIC, LACNIC or KRNIC or direct RIR allocations.
 * Comments
  - No comment
 
+##### Sample Output of IntelMQ
+
+```javascript
+{
+  "event_description":{
+    "text":"has malicious code redirecting to malicious host"
+  },
+  "time":{
+    "observation":"2016-07-07T12:18:38+00:00",
+    "source":"2016-07-07T07:44:04+00:00"
+  },
+  "raw":"LyAyODU2MC5wb2xpdGNhbG5ld3MuY29tIGh0dHA6Ly8yODU2MC5wb2xpdGNhbG5ld3MuY29tL3VybCBtLmtmYy5mcg==",
+  "feed":{
+    "url":"http://security-research.dyndns.org/pub/malware-feeds/ponmocup-infected-domains-CIF-latest.txt",
+    "accuracy":100.0,
+    "name":"DynDNS ponmocup Domains"
+  },
+  "source":{
+    "url":"http://28560.politcalnews.com/url",
+    "fqdn":"28560.politcalnews.com"
+  },
+  "destination":{
+    "fqdn":"m.kfc.fr"
+  },
+  "classification":{
+    "type":"malware"
+  }
+}
+```
+
 There's only IP information in https://www.spamhaus.org/drop/drop.txt
 It looks like:
 

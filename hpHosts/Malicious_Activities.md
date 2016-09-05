@@ -48,6 +48,34 @@ website.
 * Comments
  - No comment
 
+##### Sample Output of IntelMQ
+
+```javascript
+{
+  "source":{
+    "ip":"1.34.139.38"
+  },
+  "time":{
+    "observation":"2016-07-07T08:46:43+00:00"
+  },
+  "event_description":{
+    "text":"IP reported as having run attacks on the service Apache, Apache-DDoS, RFI-Attacks"
+  },
+  "classification":{
+    "type":"ids alert"
+  },
+  "raw":"MS4zNC4xMzkuMzg=",
+  "feed":{
+    "name":"BlockList.de",
+    "accuracy":100.0,
+    "url":"https://lists.blocklist.de/lists/apache.txt"
+  },
+  "protocol":{
+    "application":"http"
+  }
+}
+```
+
 There's only Domain information in  in http://hosts-file.net/download/hosts.txt. It looks like:
 
     # hpHosts last updated on:      06/08/2016

@@ -27,3 +27,11 @@ the specific country or region that the CERT or CSIRT is responsible for.
  - Error
 * Comments
  - No API Key
+
+##### Sample Output of IntelMQ
+
+```javascript
+{
+  null
+}
+```
