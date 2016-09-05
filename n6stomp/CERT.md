@@ -27,3 +27,11 @@ operated by CERT Poland.
  - Error
 * Comments
  - No API Key
+
+##### Sample Output of IntelMQ
+
+```javascript
+{
+  null
+}
+```
