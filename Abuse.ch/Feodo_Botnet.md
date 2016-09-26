@@ -95,8 +95,25 @@ and they are labeled by Feodo Tracker as:
 
 ----
 
-There's only IP information in  in https://feodotracker.abuse.ch/blocklist/?download=ipblocklist.
-It looks like:
+There's only Domain information in
+https://zeustracker.abuse.ch/blocklist.php?download=baddomains. It looks like:
+
+
+    ##########################################################################
+    # Feodo Domain Blocklist                                                 #
+    # Generated on 2016-09-26 07:43:48 UTC                                   #
+    #                                                                        #
+    # For questions please refer to https://feodotracker.abuse.ch/blocklist/ #
+    ##########################################################################
+    # START
+    # END (0 entries)
+
+But the domain information is empty.
+
+----
+
+There's only IP information in  in 
+https://feodotracker.abuse.ch/blocklist/?download=ipblocklist. It looks like:
 
 
     ##########################################################################
