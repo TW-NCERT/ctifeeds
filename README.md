@@ -152,48 +152,70 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - OK
   - No Present Data
 * Open Source Intelligence
+* TBD
+  - Add new collector, parser, etc.
 
 ### [Abuse.ch (Palevo Worm)][2] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* TBD
+  - Nothing to do
 
 ### [Abuse.ch (Zeus Botnet)][3] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* TBD
+  - Add new collector, parser, etc.
 
 ### [DShield - Suspicious Domains][22] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* TBD
+  - Nothing to do
 
 ### [Malwarebytes hpHosts - Malicious Activities][27] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* TBD
+  - Add new collector, parser, etc.
 
 ### [Malc0de - Malware][28] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* TBD
+  - Add new collector, parser, etc.
 
 ### [Malware Domains - Malware][30] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* TBD
+  - Add new collector, parser, etc.
 
 ### [Malware Group - Unknown][31] (O)
 * IntelMQ - Collecting Error
   - Resource Not Available
 * Open Source Intelligence
+* TBD
+  - Nothing to do
 
 ### [URLVir - Malware][38] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* TBD 
+  - Add new collector, parser, etc.
 
 ### [DGArchive - Malware][44] (O)
 * IntelMQ - OK
 * Community Source Intelligence 
+* TBD
+  - Fix the collector
 
 ### [n6stomp - Malicious Activities][47] (O)
 * IntelMQ - Collecting Error
   - No API Key
 * Community Source Intelligence 
+* TBD
+  - Nothing to do
 
 ## URL
 
